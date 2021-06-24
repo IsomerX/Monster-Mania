@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/monster-mania/static/css/main.85642eea.chunk.css",
-    "main.js": "/monster-mania/static/js/main.f8bf31ac.chunk.js",
-    "main.js.map": "/monster-mania/static/js/main.f8bf31ac.chunk.js.map",
-    "runtime-main.js": "/monster-mania/static/js/runtime-main.4af34af6.js",
-    "runtime-main.js.map": "/monster-mania/static/js/runtime-main.4af34af6.js.map",
-    "static/js/2.6443f177.chunk.js": "/monster-mania/static/js/2.6443f177.chunk.js",
-    "static/js/2.6443f177.chunk.js.map": "/monster-mania/static/js/2.6443f177.chunk.js.map",
-    "index.html": "/monster-mania/index.html",
-    "static/css/main.85642eea.chunk.css.map": "/monster-mania/static/css/main.85642eea.chunk.css.map",
-    "static/js/2.6443f177.chunk.js.LICENSE.txt": "/monster-mania/static/js/2.6443f177.chunk.js.LICENSE.txt"
+    "main.css": "/Monster-Mania/static/css/main.85642eea.chunk.css",
+    "main.js": "/Monster-Mania/static/js/main.f8bf31ac.chunk.js",
+    "main.js.map": "/Monster-Mania/static/js/main.f8bf31ac.chunk.js.map",
+    "runtime-main.js": "/Monster-Mania/static/js/runtime-main.ea01eb94.js",
+    "runtime-main.js.map": "/Monster-Mania/static/js/runtime-main.ea01eb94.js.map",
+    "static/js/2.6443f177.chunk.js": "/Monster-Mania/static/js/2.6443f177.chunk.js",
+    "static/js/2.6443f177.chunk.js.map": "/Monster-Mania/static/js/2.6443f177.chunk.js.map",
+    "index.html": "/Monster-Mania/index.html",
+    "static/css/main.85642eea.chunk.css.map": "/Monster-Mania/static/css/main.85642eea.chunk.css.map",
+    "static/js/2.6443f177.chunk.js.LICENSE.txt": "/Monster-Mania/static/js/2.6443f177.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4af34af6.js",
+    "static/js/runtime-main.ea01eb94.js",
     "static/js/2.6443f177.chunk.js",
     "static/css/main.85642eea.chunk.css",
     "static/js/main.f8bf31ac.chunk.js"
